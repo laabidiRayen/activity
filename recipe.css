@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    list-style-type: square;
+}
+.meat{
+    background-color: rgb(255, 124, 124);
+}
+.vegetables{
+    background-color: aquamarine;
+}
+.dairy{
+    background-color: rgb(255, 255, 149);
+}
+/*title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}*/
+p{
+    font-style: italic;
+}
